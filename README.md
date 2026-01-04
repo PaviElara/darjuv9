@@ -1,2 +1,2 @@
-# darjuv9
-own e-commerce website to sell my products
+# hazine
+own e-commerce website for the product selling
